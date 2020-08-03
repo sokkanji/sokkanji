@@ -1,5 +1,5 @@
 ### Hi!👋 I'm a Full-stack Developer🚀
-✨ I'm interested in front-end development such as React.js. 
+✨ I'm interested in front-end development such as React.
 
 [![Gmail](https://img.shields.io/badge/mail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sskkanji@gmail.com)](mailto:sskkanji@gmail.com)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsokkanji)](https://hits.seeyoufarm.com)
