@@ -1,5 +1,5 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sokkanji&layout=compact)](https://github.com/sokkanji)
-![sokkanji's github stats](https://github-readme-stats.vercel.app/api?username=sokkanji&show_icons=true&hide=stars,prs)
+![sokkanji's github stats](https://github-readme-stats.vercel.app/api?username=sokkanji&show_icons=true&hide=stars)
 
 <!--
 **sokkanji/sokkanji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
