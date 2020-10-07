@@ -1,5 +1,5 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=https:sskkanji@gmail.com)](https:sskkanji@gmail.com) 
-[![Tistory Badge](https://img.shields.io/badge/-Tistory-orange?style=flat-square&link=http://maengdev.tistory.com/)](http://maengdev.tistory.com/)
+[![Tistory Badge](https://img.shields.io/badge/-Tistory-orange?style=flat-square&link=https://sokkanji.tistory.com/)](https://sokkanji.tistory.com/)
 [![Velog Badge](https://img.shields.io/badge/velog-8BCB98?style=flat-square&logo=vimeo&logoColor=white&link=https://velog.io/@sokkanji)](https://velog.io/@sokkanji)
 <br>
 
