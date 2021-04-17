@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&color=gradient&height=210&section=header&text=Minji+So&fontSize=70&fontAlignY=40&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=gradient&height=180&section=header&text=Minji+So&fontSize=60&fontAlignY=35&animation=twinkling)
 
 <p align="center">
   <b>📫 Contact.</b>
