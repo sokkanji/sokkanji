@@ -1,27 +1,16 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=gradient&height=200&section=header&text=Minji+So&fontSize=70&fontAlignY=40&animation=twinkling)
 
-<p align="center">
-  <details align="center">
-    <summary> 
-      <b>📫 Contact.</b>
-     </summary>
-    <br/>
-    <a target="_blank" href="mailto:sskanji@gmail.com?subject=Hello%20Ileri,%20From%20Github">
-      <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?&style=flat-square&logo=gmail&logoColor=white" />
-    </a>&nbsp;
-    <a target="_blank" href="https://sokkanji.tistory.com/">
-      <img src="https://img.shields.io/badge/Tistory-orange?style=flat-square" />
-    </a>&nbsp;
-    <a target="_blank" href="https://velog.io/@sokkanji">
-      <img src="https://img.shields.io/badge/Velog-8BCB98?style=flat-square&logo=vimeo&logoColor=white" />
-    </a>&nbsp; 
-  </details>
-</p>
-
 <details align="center">
   <summary> 
-    <b>:octocat: Github Stats.</b>
+    <h4>:octocat: Github Stats</h4>
   </summary>
   <br/>
   <img  src="https://github-readme-stats.vercel.app/api?username=sokkanji&theme=flag-india&hide=stars&custom_title=My+Github+Stats" />
 </details>
+
+<h4 align="center">Feel free to contact me! 🤙 📩</h4> 
+<p align="center">
+  <a href="mailto:sskkanji@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=social&logo=Gmail&logoColor=EA4335"/></a>&nbsp
+  <a href="https://medium.com/@sskkanji"><img src="https://img.shields.io/badge/Medium-12100E?style=social&logo=Medium&logoColor=000000"/></a>&nbsp 
+ <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsokkanji&count_bg=%23D5D5D5&title_bg=%23D5D5D5&icon=&icon_color=%23D5D5D5&title=hits&edge_flat=false"/></a>
+</p>
