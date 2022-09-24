@@ -2,10 +2,10 @@
 
 <details align="center">
   <summary> 
-    <h4>:octocat: Github Stats</h4>
+    <h4>:octocat: Github Stats.</h4>
   </summary>
   <br/>
-  <img  src="https://github-readme-stats.vercel.app/api?username=sokkanji&theme=flag-india&hide=stars&custom_title=My+Github+Stats" />
+  <img  src="https://github-readme-stats.vercel.app/api?username=sokkanji&theme=vue&hide=stars&custom_title=My+Github+Stats" />
 </details>
 
 <h4 align="center">Feel free to contact me! 🤙 📩</h4> 
