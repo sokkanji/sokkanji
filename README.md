@@ -1,4 +1,4 @@
-<!--![header](https://capsule-render.vercel.app/api?type=Waving&color=0:c2e59c,100:64b3f4&height=200&section=header&text=Hiii,&nbsp;I'm&nbsp;Minji&fontSize=45&fontAlignY=40&animation=twinkling&fontColor=000) -->
+![header](https://capsule-render.vercel.app/api?type=venom&color=0:c2e59c,100:64b3f4&height=200&section=header&text=&nbsp;Front-end&nbsp;Developer&fontSize=45&fontAlignY=40&animation=twinkling&fontColor=#343a40&textBg=true)
 
 <!--
 <details align="center">
