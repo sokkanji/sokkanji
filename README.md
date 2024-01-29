@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=venom&color=0:c2e59c,100:64b3f4&height=150&section=header&text=&nbsp;Front-end&nbsp;Developer&fontSize=50&fontAlignY=50&animation=twinkling&fontColor=343a40&stroke=15aabf&strokeWidth=1)
+![header](https://capsule-render.vercel.app/api?type=venom&color=0:c2e59c,100:64b3f4&height=150&section=header&text=&nbsp;Front-end&nbsp;Developer&fontSize=45&fontAlignY=50&animation=twinkling&fontColor=343a40&stroke=15aabf&strokeWidth=1)
 
 
 <!--
