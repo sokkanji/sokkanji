@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=venom&height=150&color=0:c2e59c,100:64b3f4&text=Front%20-end%20Developer&fontAlignY=50&section=header&reversal=false&fontAlign=50&fontSize=45&fontColor=black&animation=twinkling&descAlignY=50&descAlign=50&strokeWidth=1&stroke=64b3f4)
+![header](https://capsule-render.vercel.app/api?type=venom&height=150&color=0:c2e59c,100:64b3f4&text=Front-end%20Developer&fontAlignY=50&section=header&reversal=false&fontAlign=50&fontSize=45&fontColor=black&animation=twinkling&descAlignY=50&descAlign=50&strokeWidth=1&stroke=64b3f4)
 
 <p align="center">
   <a href="mailto:sskkanji@gmail.com">
