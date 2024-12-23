@@ -5,14 +5,12 @@
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=social&logo=Gmail&logoColor=EA4335"/>
   </a>
   &nbsp
-<!--
-  <a href="https://velog.io/@sokkanji">
+<!-- <a href="https://velog.io/@sokkanji">
       <img src="https://img.shields.io/badge/Velog-20C997?style=social&logo=Velog&logoColor=20C997"/>
   </a>
-  &nbsp
--->
+  &nbsp -->
   <a href="https://hits.seeyoufarm.com">
     <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsokkanji&count_bg=%23D5D5D5&title_bg=%23D5D5D5&icon=&icon_color=%23D5D5D5&title=hits&edge_flat=false"/>
   </a> 
 </p>
-₩
+
