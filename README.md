@@ -2,5 +2,6 @@
 
 
 ## Writings
+* [Next.js Template과 Framer Motion으로 일관된 애니메이션 시스템 구축하기](https://blog.teamelysium.kr/framer-motion-patterns)
 * [Next.js와 Auth.js 소셜 로그인 세션 유지를 위해 토큰 갱신 및 관리하기 (DB / JWT 방법)](https://blog.teamelysium.kr/social-login-management)
 * [Tailwind CSS 멀티 테마 구현하기](https://blog.teamelysium.kr/multiple-theme)
